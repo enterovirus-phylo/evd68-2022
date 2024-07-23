@@ -1,6 +1,6 @@
 # EV-D68 Nextstrain runs with ENPEN data from 2020-2022
 
-*Paper title/link to be added here when published*
+These are the data, figures, and code relating to the paper ["Epidemiological and clinical insights into the enterovirus D68 upsurge in Europe 2021/22 and the emergence of novel B3-derived lineages, ENPEN multicentre study"](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiae154/7637136)
 
 Analysis of EV-D68 sequences collected by ENPEN in 20201-22 
 
